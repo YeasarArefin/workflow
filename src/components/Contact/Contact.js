@@ -3,35 +3,35 @@ import React from 'react';
 const Contact = () => {
     return (
         <div className="container">
-            <div class="row gx-x" style={{ marginTop: "180px" }}>
+            <div className="row gx-x" style={{ marginTop: "180px" }}>
 
-                <div class="col-md-6 col-10 mx-auto" >
+                <div className="col-md-6 col-10 mx-auto" >
 
                     <form action="">
 
-                        <div class="mb-3"
+                        <div className="mb-3"
                         >
-                            <label for="exampleFormControlInput1" class="form-label">
+                            <label htmlFor="exampleFormControlInput1" className="form-label">
                                 Enter Your Full Name</label>
-                            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Full Name" /></div>
+                            <input type="text" className="form-control" id="exampleFormControlInput1" placeholder="Full Name" /></div>
 
-                        <div class="mb-3">
+                        <div className="mb-3">
 
-                            <label for="exampleFormControlInput1" class="form-label">
+                            <label htmlFor="exampleFormControlInput1" className="form-label">
                                 Enter Your Phone Number</label>
-                            <input type="phone" class="form-control" id="exampleFormControlInput1" placeholder="+ 880" /></div>
+                            <input type="phone" className="form-control" id="exampleFormControlInput1" placeholder="+ 880" /></div>
 
-                        <div class="mb-3">
+                        <div className="mb-3">
 
-                            <label for="exampleFormControlInput1" class="form-label">Enter Your Email Address</label>
-                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" /></div>
+                            <label htmlFor="exampleFormControlInput1" className="form-label">Enter Your Email Address</label>
+                            <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" /></div>
 
-                        <div class="mb-3">
+                        <div className="mb-3">
 
-                            <label for="exampleFormControlTextarea1" class="form-label">Massege</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Write Us" rows="3">
+                            <label htmlFor="exampleFormControlTextarea1" className="form-label">Massege</label>
+                            <textarea className="form-control" id="exampleFormControlTextarea1" placeholder="Write Us" rows="3">
                             </textarea></div>
-                        <div class="col-12"><button class="btn btn-outline-primary" type="submit">Submit form</button></div>
+                        <div className="col-12"><button className="btn btn-outline-primary" type="submit">Submit form</button></div>
 
                     </form>
 
