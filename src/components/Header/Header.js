@@ -100,7 +100,7 @@ const Header = () => {
                 <div className="row" style={{ marginBottom: "100px" }}>
 
                     {
-                        courses.slice(0, 3).map(course => !loading ? <Skeliton key={Math.random()} /> : <Coursecart key={course.courseName} course={course} />)
+                        courses.slice(0, 4).map(course => !loading ? <Skeliton key={Math.random()} /> : <Coursecart key={course.courseName} course={course} />)
 
                     }
 
