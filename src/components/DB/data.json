@@ -1,0 +1,82 @@
+[
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-javascript.jpg",
+        "courseName": "Getting Started with JavaScript",
+        "courseDuration": "2h 46m",
+        "difficulty": "Medium",
+        "Rating": "4.5",
+        "Enroll": "170000",
+        "courseInstructor": "Ted Hawkins",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-7.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-graphql.jpg",
+        "courseName": "GraphQl:introduction to GraphQl to Beginners",
+        "courseDuration": "5h 46m",
+        "difficulty": "Advanced",
+        "Rating": "5",
+        "Enroll": "2700",
+        "courseInstructor": "Ted Hawkins",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-10.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-angular.jpg",
+        "courseName": "Angular-The Complete guide for beginners",
+        "courseDuration": "1h 46m",
+        "difficulty": "Medium",
+        "Rating": "4.5",
+        "Enroll": "20000",
+        "courseInstructor": "Juanita Bell",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-4.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-python.jpg",
+        "courseName": "The Python Course: build web application",
+        "courseDuration": "1h 46m",
+        "difficulty": "Intermediate",
+        "Rating": "4",
+        "Enroll": "20000",
+        "courseInstructor": "Claire Robertson",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-6.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-css.jpg",
+        "courseName": "CSS: ultimate CSS course from beginner to advanced",
+        "courseDuration": "1h 30m",
+        "difficulty": "Beginner",
+        "Rating": "4.5",
+        "Enroll": "200000",
+        "courseInstructor": "Juanita Bell ",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-7.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-wordpress.jpg",
+        "courseName": "Wordpress: complete WordPress theme & plugin development",
+        "courseDuration": "1h 30m",
+        "difficulty": "Beginner",
+        "Rating": "4.5",
+        "Enroll": "200000",
+        "courseInstructor": "Juanita Bell ",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-8.jpg"
+    },
+    {
+        "img": "https://codescandy.com/geeks-bootstrap-5/assets/images/course/course-react.jpg",
+        "courseName": "How to easily create a website with React",
+        "courseDuration": "1h 30m",
+        "difficulty": "Beginner",
+        "Rating": "4.5",
+        "Enroll": "200000",
+        "courseInstructor": "Morris Mccoy ",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-1.jpg"
+    },
+    {
+        "img": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+        "courseName": "How to easily create a website with React",
+        "courseDuration": "1h 30m",
+        "difficulty": "Beginner",
+        "Rating": "4.5",
+        "Enroll": "200000",
+        "courseInstructor": "Morris Mccoy ",
+        "instructorImg": "https://codescandy.com/geeks-bootstrap-5/assets/images/avatar/avatar-1.jpg"
+    }
+]

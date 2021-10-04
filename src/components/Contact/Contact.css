@@ -1,0 +1,24 @@
+@-webkit-keyframes up-down {
+    to {
+        transform: translateY(5%);
+        -webkit-transform: translateY(5%);
+        -moz-transform: translateY(5%);
+        -ms-transform: translateY(5%);
+        -o-transform: translateY(5%)
+    }
+}
+
+@keyframes up-down {
+    to {
+        transform: translateY(5%);
+        -webkit-transform: translateY(5%);
+        -moz-transform: translateY(5%);
+        -ms-transform: translateY(5%);
+        -o-transform: translateY(5%)
+    }
+}
+
+.header-img img {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+    -webkit-animation: up-down 2s ease-in-out infinite alternate-reverse both
+}
